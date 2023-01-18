@@ -1,1 +1,2 @@
 YOUR NAME, YOUR UVA ID, LINK TO YOUR NEW REPOSITORY
+Nicholas Gardella, njg4ne, https://github.com/njg4ne/uva-embedded-systems-ca0.git
