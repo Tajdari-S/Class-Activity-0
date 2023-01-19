@@ -1,3 +1,7 @@
 YOUR NAME, YOUR UVA ID, LINK TO YOUR NEW REPOSITORY
+Lingze Zeng, qvv4pv, https://github.com/1019388642/Class-Activity-0
+Nicholas Gardella, njg4ne, https://github.com/njg4ne/uva-embedded-systems-ca0.git
 Connor Schichtel, crs5yge, https://github.com/crs5yge/Class-Activity-0
 Nicky Palmer, np6mec, https://github.com/NickyPalmer11/Class-Activity-0
+Rongxiang Wang, waq9hw, https://github.com/rxpwang/Class-Activity-0
+Kidus Fasil, kf5fr, https://github.com/kidusf/Class-Activity-0
