@@ -1,0 +1,6 @@
+My name is Nicky Palmer (np6mec)
+I have a very strong background embedded devices. I took both ECR I and II, as well as the ECE Capstone course where we used our own MCU for an embedded device. Additionally, I have experience using MCUs in a professional environment where I used one to interact and control an application-specific integrated circuit (ASIC)
+
+I expect to get a better understanding of RTOS out of this class and how to use it in a practical setting. I'm interested in embedded design although more so with FPGAs than MCUs but I will be able to learn a lot that will be applicable to both types of design. 
+
+Nicky Palmer, np6mec, https://github.com/NickyPalmer11/Class-Activity-0 
