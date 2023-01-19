@@ -1,0 +1,9 @@
+Kidus Fasil, kf5fr
+
+Hi my name is Kidus and I am a third year computer engineering major. I have taken intro to embedded (ECE 3430) and Embedded Computing and Robotics 1(ECE 3501)
+which both use the MSP432 and programming in C. I also plan to take Computer Architecture and Design (ECE 4435) and Operating Systems (CS 4414) this semester. 
+I have also done some mini projects using the Arduino IDE including a portable fan.
+
+I am interested in topics such as digital signal processing and embedded systems. I hope with this class I will enhance my knowledge 
+about embedded software development and operating systems with hands on projects and assignments and introduce me to other topics that 
+are not traditionally taught in other electives related to operating systems. 
