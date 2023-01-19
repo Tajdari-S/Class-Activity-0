@@ -1,0 +1,34 @@
+Nicholas Gardella (njg4ne)
+
+Bio:
+
+I graduated from Virginia Tech in 2021 with a BS in Computer Science. I focused in Human Compter Interaction. I am a Systems Engineering PhD student doing Human Factors research with Dr. Sara Riggs. My research is about how software developers interact with AI driven software development environments.
+
+Projects:
+
+My undergraduate capstone project was called Bike Broadcast. My team created a wireless communication device for cyclists that utilized open source software running on a Raspberry Pi 0. Since starting grad school, I led a project called "Pavlov's Desk" where we built a CPS smart desk hutch prototype that could actuate red, green, blue, and white light in addition to two scent diffusers and fans. For this we used the Seeeduino Xiao which is compatible with the Arduino IDE, so I have experience with this type of programming. I have also done some minimal work with the ESP32, which has wireless capability, for which I was using Rust language. I also ran a research study about tactile psychophysics (how humans interpret vibrations). I am working on software to controll these actuators for others in my lab.
+
+Courses:
+
+ - Computer Organization II (study of MIPS cpu design and implementation of a MIPS assembler)
+ - Computer Systems (an operating systems course about linux with implementation of HTTP 1.1 server, job control shell, and other multithreaded programs)
+
+Languages:
+
+ - Python
+ - JavaScript
+ - C/C++
+ - R
+ - Rust
+ - Java
+ - C#
+
+Microcontrollers:
+
+ - Raspberry Pi 4, 3b, & Zero
+ - ESP32
+ - Seeeduino Xiao
+
+Course Interests & Goals:
+
+I am taking this course to learn about more relevant systems programming to CPS than the MIPS I learned in college. I like building CPS devices for fun and I have ideas of how CPS devices can be integrated into several research areas within my lab. My goal is to learn the basics of the RTOS, and if possible, integrate something from the course into a project of mine which involves a Bluetooth Low Energy heart rate strap. Currenly I use a timesharing OS with a BLE package for Python, but I would like to try receiving this data on the ESP32, if possible, using some real time technique.
