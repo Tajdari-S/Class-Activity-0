@@ -1,0 +1,9 @@
+Keshara Weerasinghe, cjh9fw
+
+I completed my undergraduate degree in Computer Engineering. During my degree, I learned alot about embedded systems, digital design, network and communications, operating systems, computer architecture and completed many projects in this area.
+I have designed and built a smart watch by identifying the requirements (processing,power,communication,sensors etc) and designed a PCB and built it using a SoC ESP8266 12F and programmed it using C, 3D printed the enclosures and programmed a server and a mobile application to interact with it.
+I also built an embedded system to detect stuck particles in an injection molding machine using computer vision and stop the machine to prevent damage by communicating with the PLCs and this was a hard real time constrained system. I was able to implement this system in real world in an injection molding factory with morethan 30 machines utilizing this system.
+I have also extensively used Arduinos, ARM platforms,Atmel Microcontrollers, Raspberry Pis and PLCs and a great variety of sensors to complete many projects and have a reasonable knowledge in many programming languages. 
+
+I would like to learn more about real-time operating systems and how they can be used to build safety critical embedded systems and learn more about building systems under hard real time constraints.
+Moreover, I would like to learn about how embedded systems are designed and built in real world for commercial use and what methodologies they use to build them.
