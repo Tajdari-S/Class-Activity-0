@@ -1,0 +1,7 @@
+Afsara Benazir
+Undergraduate course at BUET 
+- Microcontroller and embedded systems). I am familiar with C/C++, ATMEGA32 microcontroller and built an automated hand washing system using this mcu. Link to project details: https://youtu.be/46omGCgZCx0
+- Operating systems. Experimented with the xv6 operating system
+- Computer architecture - built a 4 bit pc
+
+I am interested in systems research particularly how to use tiny devices to run large models. I hope to learn more about embedded devices and their working methodology from this course.
