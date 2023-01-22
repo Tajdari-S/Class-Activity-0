@@ -1,3 +1,0 @@
-Daniel Goodman dmg2hh
-ECE 3430 Intro Embedded Computer Systems, CS 2150 Program and Data Representation, MSP432, Teensy, Code Composer Studio, Teensyduino, Python, Java, C, C++
-I am interested in embedded systems because I enjoy the problem solving that it enables me to do. I appreciate how the entire process is aimed at creating the best and most effecient solution, and when the final product works it is one of the most satisfying feelings I have experienced. I hope that this class will help me become better at writing programs for embedded systems so that I can be even more efficient at solving problems with embedded systems.
