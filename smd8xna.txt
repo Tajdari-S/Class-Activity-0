@@ -1,0 +1,9 @@
+Sophia DeCleene: smd8xna
+
+I took the intro to embedded systems class last semester where we used the MSP432p401r
+microcontroller. I have a decent amount of experience in python, Java, C/C++, and R. 
+
+I really enjoyed the intro embedded class and all the project-based learning so I am
+hoping to continue learning through hands-on work in this class. I am very interested in
+the real-world applications that tie into this class and hope to expand on my understanding 
+of what can be done with embedded systems.
