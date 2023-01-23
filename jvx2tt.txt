@@ -1,0 +1,3 @@
+sabiha tajdari jvx2tt
+networked embedded systems, embedded systems design, computer architecture, Advanced computer architecture, microprocessor, and ... . AVR C, texas instruments wireless nodes, Contiki and cooja, ... .
+I like to learn more about existing challenges in embedded systems design for health care applications and test and verification methods.
