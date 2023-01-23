@@ -1,0 +1,9 @@
+CS 6501 Activity 0
+Name: J. Michael Bertsch
+UVA ID: xyp5sj
+Background: I completed my undergraduate degree in Electrical Engineering, where I took three courses relating to embedded systems (Digital Electronics, Embedded Systems I, and Computer Org and Arch), additionally I've taken Engineering Interactive Technologies and CPS 1 here at UVA where we've worked with Microcontrollers in some way. 
+Within my research I use microcontrollers regularly, as I am working on designing various haptic communication devices. My undergraduate research project was also CPS and microcontroller heavy. 
+I have used the exact same board during my undergraduate micro/computer org classes, (along with a MUCH older version of Kiel), coding in both ARM assembly and C. I've also used Arduino for several projects.  
+
+My research interests are in haptics and human-machine interaction, specifically looking at how we can communicate very complex information using only the sense of touch. Outside of research, I enjoy working on old cars, motorcycles, and audio equipment, as well as playing the guitar :). I am excited to refresh some of the material from my undergrad, as well as learn new skills and ways to implement microcontrollers in my future devices! 
+
