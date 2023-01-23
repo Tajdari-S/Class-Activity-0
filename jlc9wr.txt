@@ -1,0 +1,15 @@
+John Chrosniak (jlc9wr)
+
+I am a Master's student in the CS department and graduated with a degree in Computer Engineering last spring. I have taken two classes in embedded systems (EAR I & EAR II) and Operating Systems.
+
+I designed an embedded system for a delivery lockbox for my capstone project and also helped design the embedded architecture for the UVA Solar Car Team.
+
+I have worked with STM32, MSP43x, and Arduino microcontrollers.
+
+Python, C, C++, and MbedOS are some languages/frameworks I have used.
+
+
+
+I am interested in Autonomous Vehicles and AI/ML. Outside of class, I like to snowboard, mountain bike, and attempt to play basketball. I hope
+to gain more experience developing with low-level code in this class and reinforce the topics I have learned in other courses through
+the class assignments.
