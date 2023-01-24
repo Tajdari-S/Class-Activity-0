@@ -1,4 +1,5 @@
 YOUR NAME, YOUR UVA ID, LINK TO YOUR NEW REPOSITORY
+John Chrosniak, jlc9wr, https://github.com/john-chrosniak/Class-Activity-0
 Lingze Zeng, qvv4pv, https://github.com/1019388642/Class-Activity-0
 Nicholas Gardella, njg4ne, https://github.com/njg4ne/uva-embedded-systems-ca0.git
 Connor Schichtel, crs5yge, https://github.com/crs5yge/Class-Activity-0
@@ -13,4 +14,12 @@ Seyed Hamid Reza Roodabeh, ydq9ag, https://github.com/hamidrezaro/Class-Activity
 Sophia DeCleene, smd8xna, https://github.com/SophiaD22/Class-Activity-0.git
 Faisal Rehman , qnp9me , https://github.com/RF-UVA/Class-Activity-0 
 Daniel Goodman, dmg2hh, https://github.com/dmg2hh/Class-Activity-0
+<<<<<<< HEAD
 James O'Connell, jgo2nja, https://github.com/jgo2nja/Class-Activity-0
+=======
+Gabriel Silliman, gjs4wu, https://github.com/gjs4wu/Class-Activity-0
+J. Michael Bertsch, xyp5sj, https://github.com/jmikeyb/Class-Activity-0
+Eric Choi, esc4st, https://github.com/EricChoiUVA/Class-Activity-0
+Daniel Goodman, dmg2hh, https://github.com/dmg2hh/Class-Activity-0
+Sabiha Tajdari, jvx2tt, https://github.com/Tajdari-S/Class-Activity-0
+>>>>>>> a1069cb63cbfc4a83b07f534d020ceb1cd360173
