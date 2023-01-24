@@ -1,0 +1,3 @@
+Seyed Hamid Reza Roodabeh (Hamid in short) | ydq9ag
+Courses: Introduction to computer architecture, Microcontroller Programming and interface circuits | Projects: DC motor position/velocity/acceleration control using a STM32F1 microcontroller in addition to a remote user desktop GUI and communication over WiFi/SerialIO, Simple image processing algorithm on STM32 microcontroller using arm assembly | Languages: C, C++, Assembly
+I am always interested in transforming ideas into reality, and specially in the field of roboitcs and cyber physical systems, I believe it helps a lot to be familiar with/proficient in embedded systems as they allow you to implement various interesting systems and algorithms on real hardware and make things move in real world!

@@ -1,0 +1,3 @@
+Rongxiang Wang, waq9hw
+UVA course: CS6762 Signal Processing, Machine Learning and Control. Tsinghua course(undergraduate): C, C++, OS
+My research interests are operating system and general system software. In this course, I want to learn about embedded operating system and its real time support. I am also looking forward to gain some practical experience from the mini projects and final projects.

@@ -1,0 +1,3 @@
+Connor Schichtel crs5yge
+ECE 3430 - Introduction to Embedded Computer Systems, CS 2150 Program and Data Representation, MSP432 Microcontroller, Code Composer Studio, C, C++, python, java
+I am interested in embedded systems because of the ability to interact with real world objects using timer and interrupt code. I am excited to learn more about embedded coding and to work on the final project of using a handheld controller to move a cursor and complete game related tasks.

@@ -1,0 +1,3 @@
+Jack Chandler; jtc4hnu
+Previous Coursework - EARS I,II, ECE Computer Architecture, Operating Systems, ECE Capstone; Embedded Platforms - MSP432, C2000, STM32; Programming Languges - C, C++, other
+I am pursuing graduate school in computer engineering, potentially researching in the area of hardware security. I would like to further my understanding and familiarity with real-time operating systems and concurrent programming. I am also looking forward to acquire tools to analyze system performance.
