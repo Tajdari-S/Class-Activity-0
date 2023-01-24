@@ -1,0 +1,6 @@
+Wonkyo Choe bfr4xr@virginia.edu
+
+
+I have a broad interest in computer systems and prefer to work in the low-level system. My previous research projects are mainly about optimizing the Linux kernel and I had dealt with especially memory management. For classes, I have taken OS, computer architecture, and several courses related to computer systems (Distributed / Network systems or parallel programming)
+
+
