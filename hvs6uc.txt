@@ -1,0 +1,19 @@
+Yue Zhu (hvs6uc)
+
+
+I am a first-year graduate student in the Master of Engineering program in Electrical Engineering. 
+
+I hold a Bachelor's degree in Electrical Engineering from ShanghaiTech University in China and have completed coursework in embedded systems design and FPGA-based systems design. 
+
+In addition, I have gained practical experience as a research assistant at ShanghaiTech University, where I worked on software and hardware design projects in battery-free electronics. 
+
+My work got published in the ACM conference Sensys 2022.
+
+
+MCU / platforms: STM32, Nordic Nrf52832, Arduino, Raspberry Pi
+Language: Embedded C, Python
+
+My research interest lies in both software and hardware design of embedded systems, especially in battery-free electronics or energy harvesting systems, and system-level intermittent computing.
+Broadly speaking, I am interested in implementing any embedded system that is fun and challenging.
+
+I am looking for learning system designing techniques from this course.
