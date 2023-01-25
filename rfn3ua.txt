@@ -1,0 +1,12 @@
+Uday Kiran, rfn3ua
+
+I am Uday, a first-year Master's student. 
+
+My first exposure to embedded systems was using esp8266 while doing my home automation. 
+My second exposure is building a custom keyboard using Elite-C (ATmega32u4) using 
+source code from Git Hub. I took a Graduate Computer Architecture course last semester 
+and had experience in C/C++, x86 assembly, and Python. 
+
+Though I have professional experience in low-level programming for x86-based 
+microprocessors, my experience in embedded is limited. I strongly believe this course 
+will provide insight into RTOS and embedded systems in general.
