@@ -1,0 +1,6 @@
+Yu-Sheng Wang (bqk3dj)
+
+I graduated from National Taiwan University and now a Master's student in the CS department. This will be my first class related to embedded programming.
+As the programming language, I use C++ and Python.
+
+I am interested in C++ programming, computer vision, and robotics. Outside of class, I like to play basketball and hike. Throught this class, I want to gain more knowledge in low-level programming, embedded system, and RTOS.
