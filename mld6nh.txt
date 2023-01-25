@@ -1,0 +1,9 @@
+Max Dawkins (mld6nh)
+
+I have little embedded programming experience (one project with Arduino controlling a robot).
+I took an operating systems class and a computer architecture class.
+
+I am interested in robotics, and I would like to learn more about the unique design choices 
+of real time operating systems. I am working on the Cavalier Autonomous Racing team, but my 
+work there does not involve embedded programming, so I would like to gain more experience 
+with embedded systems design and programming.

@@ -1,0 +1,20 @@
+Dhruv Batra
+db3sgv
+
+I have taken the intro embedded course and Embedded Computing and Robotics 1, both of which used
+the MSP432 and embedded C.
+
+My relavent projects are listed below and were written in C++.
+
+I built a computer mouse that used an ESP32 microcontroller and force sensor for input that
+provided haptic feedback proportional to how hard a user clicks the mouse for increased
+immersion in video games. The mouse also sends text notifications using Twilio if a user clicks too hard
+repeatedly to prevent the development of carpal tunnel.
+
+I did a research internship at GMU where I worked on a robotic dog that autonomously located
+gas sources using gas sensors and computer vision. A raspberry pi and a Teensy board were used.
+
+I have done multiple projects while learning embedded programming on an Arduino Uno such as a Pedometer.
+
+I like using embedded programming as a tool to help me with projects and tackle issues I care about.
+At the end of this course, I hope to be a more capable and knowledgeable embedded programmer.
