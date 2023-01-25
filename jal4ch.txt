@@ -1,0 +1,3 @@
+James (Jake) Long, jal4ch
+Background: Relevant courses include ECR1 & 2, Operating Systems, Computer Architecture, EE/CPE Capstone. I've worked with the MSP series microcontrollers from TI, especially while for the robotic foosball table capstone project last semester. All prior embedded work has been done in C, mostly using Code Composer Studio. 
+I'm interested in learning more about RTOS and size/ weight/power optimization in embedded applications. I'll be developing embedded code for work next year, and am hoping to experience some more tools, techniques, and challenges before that time. My friend who graduated last year and now works in embedded strongly recommended the class.
