@@ -1,0 +1,14 @@
+James O'Connell, jgo2nja
+
+I am a third year computer engineer. 
+My only experience with embedded systems was the intro course that I took with Delong last semester. The most
+advanced project that I have completed is a task scheduler for an LCD display.
+I have a basic understanding of operating systems, I've made a boot sector and a kernel before.
+Data structures and algorithms are my favorite part of programming, in which my knowledge is the strongest.
+My favorite language is C, and I've also written many programs in x86 assembly.
+
+I am excited to get a better understanding of the ARM architecture through this class, 
+as I have almost no experience with it. I am also trying to better my understanding of operating systems,
+specifically with respect to memory and scheduling. Finally, I am eager to develop strategies for designs of quick
+and efficient embedded systems through the projects in this class.
+
