@@ -1,0 +1,3 @@
+Emmanuel Erhabor eoe8sfg
+I have taking the Embedded Computing and Robotics 1 and 2. I have used MSP430 and Booster PAck add-ons. I have used both C and C++
+My interests include IoT, Robotics, creative writing, reading and watching TV. I expect to advance my expertise in embedded programming so I can use it in the workforce and for personal projects 
