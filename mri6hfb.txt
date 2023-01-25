@@ -1,0 +1,11 @@
+Matthew Ippolito (mri6hfb)
+
+I am a fourth year CPE student.  I have taken ECR 1 and 2, as well as comp arch.
+I am currently taking OS along with this class.  I also took the ECE Capstone, in which
+we created an embedded system that played checkers.  I have used C/C++, python, and some
+Java.
+
+I am interested in embedded systems and how they are involved with automation.  I also have
+a job offer to develop firmware for PLC controllers.  I took this class to help
+prepare me for that, as I expect to learn more about multi-threading and RTOS in general,
+as it is something that I will use there.
