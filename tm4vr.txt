@@ -1,0 +1,5 @@
+Tingyang Meng tm4vr@virginia.edu
+
+I'm Tingyang Meng and currently a PhD student in EE. I audited ECE 3430 last semester. I have experience with C, C++, python, and matlab.
+
+My research is focused on control theory I hope to learn the tools needed to implement control algorthms in industrial applications.
