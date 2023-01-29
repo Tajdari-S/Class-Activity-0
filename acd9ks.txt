@@ -1,0 +1,5 @@
+Adam Dirting -- acd9ks
+
+I took Intro to Embedded systems last semester and was hired to help TA it this semester. I am also taking computer architecture this semester.
+I used the msp432 through code composer studio last semester in embedded and thats all my experience with micro controllers. I loved it though, very fun stuff. 
+Besides english, I also speak C, C++, x86 assembly, and most of the easy programming languages (python, javascript, etc.).
