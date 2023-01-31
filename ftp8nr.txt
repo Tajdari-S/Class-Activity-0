@@ -1,0 +1,4 @@
+Xu Ouyang ftp8nr
+I have limited knowledge abiout embedded system design. The closest course I've taken is Eembedded Operating Systems, it uses Raspberry PI and Python to do projects.
+I'm doing research about efficient ML whose one of the biggest application area is edge devices (smart phones, microcontrollers). So I'd like to learn how to program in the embedded system and do my reasearch projects on them.
+ 
