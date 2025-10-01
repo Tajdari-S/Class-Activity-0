@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Nicholas Gardella | Systems Engineering PhD Student</title>
+    <meta
+      name="description"
+      content="Portfolio-style resume site for Nicholas Gardella highlighting research interests, projects, and embedded systems experience."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="assets/css/styles.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <nav class="nav">
+        <div class="nav__brand">NG</div>
+        <button class="nav__toggle" aria-label="Toggle navigation">☰</button>
+        <ul class="nav__links">
+          <li><a href="#about">About</a></li>
+          <li><a href="#projects">Projects</a></li>
+          <li><a href="#skills">Skills</a></li>
+          <li><a href="#goals">Goals</a></li>
+        </ul>
+      </nav>
+      <div class="hero__content">
+        <p class="hero__eyebrow">Systems Engineering PhD Student · Human Factors Research</p>
+        <h1 class="hero__title">Nicholas Gardella</h1>
+        <p class="hero__subtitle">
+          Exploring how software developers collaborate with AI-driven tooling while building cyber-physical prototypes that
+          connect research with real-world embedded systems practice.
+        </p>
+        <div class="hero__actions">
+          <a class="btn" href="#projects">View Projects</a>
+          <a class="btn btn--ghost" href="#goals">Course Goals</a>
+        </div>
+        <div class="hero__highlights">
+          <article class="highlight">
+            <h2>BS Computer Science</h2>
+            <p>Virginia Tech · 2021 · Human-Computer Interaction focus</p>
+          </article>
+          <article class="highlight">
+            <h2>Systems Engineering PhD</h2>
+            <p>Human Factors research with Dr. Sara Riggs focused on developer-AI collaboration</p>
+          </article>
+          <article class="highlight">
+            <h2>Embedded CPS Builder</h2>
+            <p>Experience across Raspberry Pi, ESP32, and Seeeduino Xiao platforms</p>
+          </article>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section id="about" class="section">
+        <div class="section__header">
+          <h2>About</h2>
+          <p>Research framing</p>
+        </div>
+        <div class="section__body">
+          <p>
+            I am a Systems Engineering PhD student focused on Human Factors research that examines the ways software developers
+            interact with AI-driven development environments. After completing my BS in Computer Science at Virginia Tech in
+            2021 with a focus in Human-Computer Interaction, I now combine socio-technical research questions with hands-on
+            embedded development to prototype supportive tooling for development teams.
+          </p>
+        </div>
+      </section>
+
+      <section id="projects" class="section section--alt">
+        <div class="section__header">
+          <h2>Highlighted Projects</h2>
+          <p>Selected work across academic research and prototyping</p>
+        </div>
+        <div class="cards">
+          <article class="card">
+            <h3>Bike Broadcast</h3>
+            <p>
+              Undergraduate capstone project delivering a wireless communication device for cyclists powered by a Raspberry Pi
+              Zero and open-source software, enabling safer group rides through reliable messaging.
+            </p>
+          </article>
+          <article class="card">
+            <h3>Pavlov's Desk</h3>
+            <p>
+              Led the development of a cyber-physical smart desk hutch prototype with multi-color lighting, scent diffusion, and
+              airflow modules controlled by a Seeeduino Xiao to study adaptive workspaces.
+            </p>
+          </article>
+          <article class="card">
+            <h3>Tactile Psychophysics Study</h3>
+            <p>
+              Designed and executed a research study investigating how people interpret haptic feedback, developing control
+              software that orchestrates embedded actuators for lab collaborators.
+            </p>
+          </article>
+          <article class="card">
+            <h3>BLE Heart-Rate Integration</h3>
+            <p>
+              Ongoing exploration into capturing Bluetooth Low Energy heart-rate data on the ESP32 using real-time techniques to
+              support responsive human-in-the-loop prototypes.
+            </p>
+          </article>
+        </div>
+      </section>
+
+      <section id="skills" class="section">
+        <div class="section__header">
+          <h2>Technical Toolkit</h2>
+          <p>Languages, platforms, and coursework</p>
+        </div>
+        <div class="skills-grid">
+          <div class="skills-group">
+            <h3>Programming Languages</h3>
+            <ul>
+              <li>Python</li>
+              <li>JavaScript</li>
+              <li>C / C++</li>
+              <li>R</li>
+              <li>Rust</li>
+              <li>Java</li>
+              <li>C#</li>
+            </ul>
+          </div>
+          <div class="skills-group">
+            <h3>Microcontrollers & Platforms</h3>
+            <ul>
+              <li>Raspberry Pi 4, 3B, &amp; Zero</li>
+              <li>ESP32</li>
+              <li>Seeeduino Xiao</li>
+            </ul>
+          </div>
+          <div class="skills-group">
+            <h3>Core Coursework</h3>
+            <ul>
+              <li>Computer Organization II</li>
+              <li>Computer Systems</li>
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <section id="goals" class="section section--alt">
+        <div class="section__header">
+          <h2>Current Course Goals</h2>
+          <p>Connecting embedded systems practice to research outcomes</p>
+        </div>
+        <div class="section__body">
+          <p>
+            I am expanding my systems programming expertise beyond the MIPS work from my undergraduate studies to better support
+            cyber-physical systems research. I enjoy building CPS devices for fun and am actively exploring how embedded systems
+            can enrich projects within my lab. A near-term objective is mastering real-time operating system concepts so I can
+            integrate them into a Bluetooth Low Energy heart-rate strap project using the ESP32.
+          </p>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p>&copy; <span id="year"></span> Nicholas Gardella. Built for CS 6501 Embedded Systems.</p>
+    </footer>
+
+    <script>
+      const navToggle = document.querySelector('.nav__toggle');
+      const navLinks = document.querySelector('.nav__links');
+      navToggle.addEventListener('click', () => {
+        navLinks.classList.toggle('nav__links--open');
+      });
+      document.getElementById('year').textContent = new Date().getFullYear();
+    </script>
+  </body>
+</html>
